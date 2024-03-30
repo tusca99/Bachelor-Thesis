@@ -33,8 +33,7 @@ To use the neural network code you need Tensorflow with Keras.
 
 ## Citation
 
-If you use any data from this repository in your own research or projects, please cite the following: [insert pdf link]
-
+If you use any data from this repository in your own research or projects, please cite the following repository and/or the relative paper.
 ## License
 
 This repository is licensed under the GNU GPLv3 license.
