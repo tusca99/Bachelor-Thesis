@@ -28,7 +28,7 @@ The repository is organized as follows:
 ## Usage
 
 All the jupyter notebooks are written in python.
-To use the simulation code you need Aiida with aiida-quantumespresso connected to a functioning pw.x code, plus some other libraries mentid in the code.
+To use the simulation code you need Aiida with aiida-quantumespresso connected to a functioning pw.x code, plus some other libraries mentioned in the code.
 To use the neural network code you need Tensorflow with Keras.
 
 ## Citation
